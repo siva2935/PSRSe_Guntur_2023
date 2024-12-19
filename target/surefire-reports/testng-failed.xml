@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite_Americans]" verbose="0">
+  <test thread-count="5" name="FFCase(failed)" verbose="0">
+    <parameter name="browser" value="Firefox"/>
+    <classes>
+      <class name="programs.A4_Information_Commands">
+        <methods>
+          <include name="afterTest"/>
+          <include name="beforeTest"/>
+          <include name="google_image"/>
+        </methods>
+      </class> <!-- programs.A4_Information_Commands -->
+    </classes>
+  </test> <!-- FFCase(failed) -->
+</suite> <!-- Failed suite [Suite_Americans] -->

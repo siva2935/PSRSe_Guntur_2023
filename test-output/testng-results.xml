@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-19T00:54:48 IST" name="Suite_Americans" finished-at="2024-12-19T00:54:57 IST" duration-ms="8738">
+    <groups>
+    </groups>
+    <test started-at="2024-12-19T00:54:48 IST" name="FFCase" finished-at="2024-12-19T00:54:57 IST" duration-ms="8738">
+      <class name="BHighlevelBases.B15_Frames">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:BHighlevelBases.B15_Frames@22ff4249]" started-at="2024-12-19T00:54:48 IST" name="beforeTest" finished-at="2024-12-19T00:54:52 IST" duration-ms="3868" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="clickable()[pri:0, instance:BHighlevelBases.B15_Frames@22ff4249]" started-at="2024-12-19T00:54:52 IST" name="clickable" finished-at="2024-12-19T00:54:57 IST" duration-ms="4801" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickable -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:BHighlevelBases.B15_Frames@22ff4249]" started-at="2024-12-19T00:54:57 IST" name="afterTest" finished-at="2024-12-19T00:54:57 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- BHighlevelBases.B15_Frames -->
+    </test> <!-- FFCase -->
+  </suite> <!-- Suite_Americans -->
+</testng-results>

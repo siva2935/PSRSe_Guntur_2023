@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite_Americans">
+
+	<test name="FFCase">
+		<parameter name="browser" value="Firefox" />
+
+		<classes>
+
+			<class name="programs.A4_Information_Commands" />
+			<class name="programs.A9_Enhancing_StudentQAForm" />
+			<class name="BHighlevelBases.B15_Frames" />
+
+
+		</classes>
+	</test>
+
+
+
+	<test name="Chromecase">
+		<parameter name="browser" value="Chrome" />
+		<classes>
+
+			<class name="programs.A4_Information_Commands" />
+			<class name="programs.A9_Enhancing_StudentQAForm" />
+			<class name="BHighlevelBases.B15_Frames" />
+
+		</classes>
+	</test>
+
+
+
+	<test name="IE">
+		<parameter name="browser" value="IE" />
+		<classes>
+
+			<class name="programs.A4_Information_Commands" />
+			<class name="programs.A9_Enhancing_StudentQAForm" />
+			<class name="BHighlevelBases.B15_Frames" />
+
+
+		</classes>
+	</test>
+
+
+
+</suite>

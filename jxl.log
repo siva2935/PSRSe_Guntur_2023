@@ -1,0 +1,5 @@
+2023-10-28 12:09:55,857 [INFO ] L0g4j.Myclass  - Open browserstack
+2023-10-28 12:09:56,232 [INFO ] L0g4j.Myclass  - Maximize window size
+2023-10-28 12:09:56,243 [INFO ] L0g4j.Myclass  - enter username
+2023-10-28 12:09:59,272 [INFO ] L0g4j.Myclass  - enter password
+2023-10-28 12:10:02,378 [INFO ] L0g4j.Myclass  - click on login
